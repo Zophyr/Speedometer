@@ -7,7 +7,7 @@
 ### 安装
 
 ```shell
-$ go get -u https://github.com/Zophyr/Speedometer
+$ go get -u github.com/Zophyr/Speedometer
 ```
 
 ### 运行
