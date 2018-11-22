@@ -14,7 +14,7 @@
 $ go get -u github.com/Zophyr/Speedometer
 ```
 
-> ⚠️ 该步骤可能会需要较多的时间，请耐心等待。
+> ⚠️ 该步骤可能需要较多的时间，请耐心等待。
 
 ### 运行
 
@@ -45,7 +45,7 @@ $ go test -bench="Martini|Gin|GorillaMux"
 ***Gin vs GorillaMux***
 
 ```shell
-go test -bench="GorillaMux|Gin"
+$ go test -bench="GorillaMux|Gin"
 ```
 
 结果：
